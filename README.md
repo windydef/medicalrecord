@@ -202,6 +202,8 @@ J --> K
 * Windy Deftia M
 * Meilinda Anandita P
 
+Biomedical Engineering  
+Institut Teknologi Sepuluh Nopember (ITS)
 ---
 
 ## License
