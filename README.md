@@ -157,54 +157,57 @@ medical_record.exe
 
 ## System Flowchart
 
+
 ```mermaid
 flowchart TD
 
-    A([START])
+A([START])
+B{Check Up?}
 
-    B{Check Up?}
+C[Input Data]
+D[Patient Medical Record]
+E[See All Medical Record]
+F[Search Patient ID]
 
-    C[Input Data]
-    D[Patient Medical Record]
-    E[See All Medical Record]
-    F[Search Patient ID]
+G[Patient Data File]
+H[Patient Data]
+I[Patient Database]
+J[Database ID]
 
-    G[/Patient Data File (.txt)/]
-    H[/Patient Data/]
-    I[/Patient Database/]
-    J[/Database ID/]
+K([END])
 
-    K([END])
+A --> B
+B -->|No| K
 
-    A --> B
-    B -->|No| K
+B -->|Yes| C
+B -->|Yes| D
+B -->|Yes| E
+B -->|Yes| F
 
-    B -->|Yes| C
-    B -->|Yes| D
-    B -->|Yes| E
-    B -->|Yes| F
+C --> G
+D --> H
+E --> I
+F --> J
 
-    C --> G
-    D --> H
-    E --> I
-    F --> J
-
-    G --> K
-    H --> K
-    I --> K
-    J --> K
+G --> K
+H --> K
+I --> K
+J --> K
 ```
 
 ---
 
 ## Authors
 
-Windy Deftia M
-Meilinda Anandita P
+* Windy Deftia M
+* Meilinda Anandita P
 
 ---
 
 ## License
 Surabaya, 2016
 
-This project was developed for educational and academic purpose only
+
+
+
+###### This project was developed for educational and academic purpose only
