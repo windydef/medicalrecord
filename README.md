@@ -103,35 +103,6 @@ MedicalRecordSystem/
 ## Technologies Used
 
 - C Programming Language
-- Standard C Library
-- File Handling (`fopen`, `fprintf`, `fscanf`, `fclose`)
-- String Functions (`strstr`, `strcpy`)
-
----
-
-## How to Compile
-
-Using GCC:
-
-```bash
-gcc main.c -o medical_record
-```
-
----
-
-## How to Run
-
-Linux:
-
-```bash
-./medical_record
-```
-
-Windows:
-
-```bash
-medical_record.exe
-```
 
 ---
 
@@ -202,14 +173,13 @@ J --> K
 * Windy Deftia M
 * Meilinda Anandita P
 
+Created in 2016
+
 Biomedical Engineering  
 Institut Teknologi Sepuluh Nopember (ITS)
+
 ---
 
 ## License
-Surabaya, 2016
 
-
-
-
-###### This project was developed for educational and academic purpose only
+This project was developed for educational and academic purpose only
