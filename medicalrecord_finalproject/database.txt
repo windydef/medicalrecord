@@ -1,0 +1,415 @@
+Date of checkup    = 1/12/2016
+Name          = windy 
+Name          = deftia 
+Place born    = jogja
+Date of birth = 1/3/1998
+Date of checkup    = 1/1/1
+Name          = windy 
+Name          = deftia 
+Gender          = Female 
+Place born    = jogja
+Date of birth = 1/1/1
+Department    : Neurology
+		9.tremor
+		7.loss of awareness
+		20.Confusion and irritabilityDate of checkup    = 1/1/1
+Name          = ads 
+Name          = asd 
+Gender          = m 
+Place born    = asd
+Date of birth = 1/1/1
+Department    : Neurology
+		4.suddeng trouble walking
+		6.temporary confusion
+Treatment: 
+		16.fever
+		20.Confusion and irritabilityDate of checkup    = 1/1/1
+Name          = wd 
+Name          = d 
+Gender          = f 
+Place born    = ad
+Date of birth = 1/1/1
+Department    : Neurology
+		9.tremor
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = s 
+Name          = s 
+Gender          = a 
+Place born    = a
+Date of birth = 1/1/1
+Department    : Neurology
+Symptoms: 		19.severe muscle pain
+Symptoms: 		3.trouble understanding
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = a 
+Name          = a 
+Gender          = a 
+Place born    = a
+Date of birth = 1/1/1
+Department    : Neurology
+Symptoms: 		2.trouble speaking
+		3.trouble understanding
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = wkwkwkwkw 
+Name          = a 
+Gender          = a 
+Place born    = a
+Date of birth = 1/1/1
+Date of checkup    = 1/1/1
+Name          = 1 
+Name          = 1 
+Gender          = 1 
+Place born    = w
+Date of birth = 1/1/1
+Department       : General Poly
+		3.sore throat
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = a 
+Name          = a 
+Gender          = a 
+Place born    = a
+Date of birth = 1/1/1
+Department    : Neurology
+Symptoms: 
+		2.trouble speaking
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = a 
+Name          = a 
+Gender          = a 
+Place born    = a
+Date of birth = 1/1/1
+Department    : Neurology
+Symptoms: 
+		13.sensitivity to light
+		Date of checkup    = 1/1/1
+Name          = a 
+Name          = a 
+Gender          = a 
+Place born    = a
+Date of birth = 1/1/1
+Department    : Neurology
+Symptoms: 
+		4.suddeng trouble walking
+		8.Uncontrollable jerking movements of the arms and legs
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = r 
+Name          = r 
+Gender          = r 
+Place born    = r
+Date of birth = 1/1/1
+Department       : General Poly
+		4.stuffy nose
+Treatment: 
+				Date of checkup    = 1/1/1
+Name          = w 
+Name          = w 
+Gender          = w 
+Place born    = w
+Date of birth = 1/1/1
+Department       : General Poly
+		4.stuffy nose
+		7.red spors appear
+Treatment: 
+		Date of checkup    = 1/1/1
+Name          = q 
+Name          = q 
+Gender          = q 
+Place born    = q
+Date of birth = 1/1/1
+Department       : General Poly
+		4.stuffy nose
+		6.headache
+Treatment: 
+	2.aspirin
+
+Date of checkup    = 0/0/0
+Name          = qq 
+Name          = q 
+Gender          = q 
+Place born    = q
+Date of birth = 1/1/1
+Department    : Neurology
+Symptoms: 
+		4.suddeng trouble walking
+		6.temporary confusion
+Treatment: 
+			1.therapy
+Date of checkup    = 1/1/1
+Name          = windy 
+Name          = deftia 
+Gender          = f 
+Place born    = jogja
+Date of birth = 1/3/98
+Department       : Eye Center
+		9.mata lelah
+Treatment: 
+			1.eye drops
+			4.rest the eye
+Date of checkup      = 1/1/1
+Name            = windy 
+Name            = defta 
+Gender          = f 
+Place born      = jogja
+Date of birth = 1/1/1
+Department       = Pulmology
+		1.cough
+Treatment= 
+		3.take a rest
+Date of checkup      = 1/1/1
+Name            = windy 
+Name            = deftia 
+Gender          = f 
+Place born      = jogja
+Date of birth = 1/1/1
+Department       = General Poly
+		14.pusing
+		8.chills
+Treatment= 
+2.aspirin
+
+1.paracetamol
+
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = 1 
+Name            = 1 
+Gender          = w 
+Place born      = w
+Date of birth = 1/1/1
+Department       = Eye Center
+		9.mata lelah
+		8.itchy eye
+Treatment= 
+		1.eye drops
+		4.rest the eye
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = w 
+Name            = w 
+Gender          = w 
+Place born      = w
+Date of birth = 1/1/1
+Department       = Pulmology
+		1.cough
+		10.weight lossTreatment= 
+		7.olahraga ringan
+		3.take a rest
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = q 
+Name            = q 
+Gender          = q 
+Place born      = q
+Date of birth = 1/1/1
+Department       = General Poly
+		1.fever
+		2.cough
+Treatment= 
+1.paracetamol
+
+2.aspirin
+
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = w 
+Name            = w 
+Gender          = w 
+Place born      = w
+Date of birth = 1/1/1
+Department       = General Poly
+		3.sore throat
+		2.cough
+Treatment= 
+1.paracetamol
+
+2.aspirin
+
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = a 
+Name            = a 
+Gender          = a 
+Place born      = a
+Date of birth = 1/1/1
+Department       = General Poly
+		12.memar
+		1.fever
+Treatment= 
+1.paracetamol
+
+2.aspirin
+
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = w 
+Name            = w 
+Gender          = w 
+Place born      = w
+Date of birth = 1/1/1
+Department       = General Poly
+		3.sore throat
+		4.stuffy nose
+Treatment= 
+1.paracetamol
+
+2.aspirin
+
+Effectiveness   = yes
+
+Date of checkup      = 12/4/2009
+Name            = helena 
+Name            = helena 
+Gender          = f 
+Place born      = jakarta
+Date of birth = 29/8/97
+Department       = General Poly
+		16.nyeri pada badan
+		1.fever
+Treatment= 
+Dept. NeurologyEffectiveness   = yes
+
+Date of checkup      = 12/9/2012
+Name            = upik 
+Name            = rahmah 
+Gender          = f 
+Place born      = jombang
+Date of birth = 3/7/98
+Department       = Eye Center
+		8.itchy eye
+		9.mata lelah
+Treatment= 
+		1.eye drops
+		4.rest the eye
+Effectiveness   = yes
+
+Date of checkup      = 12/12/12
+Name            = firda 
+Name            = nuzula 
+Gender          = f 
+Place born      = jakarta
+Date of birth = 22/10/99
+Department       = Pulmology
+		1.cough
+		7.fever
+Treatment= 
+		1.aspirin
+		3.take a rest
+Effectiveness   = yes
+
+Date of checkup      = 13/9/15
+Name            = firda 
+Name            = nuzula 
+Gender          = f 
+Place born      = jakarta
+Date of birth = 22/10/99
+Department       = General Poly
+		16.nyeri pada badan
+		6.headache
+Treatment= 
+Dept. NeurologyEffectiveness   = no
+
+Date of checkup      = 13/4/13
+Name            = meilinda 
+Name            = putri 
+Gender          = f 
+Place born      = jakarta
+Date of birth = 23/5/98
+Department    = Neurology
+Symptoms= 
+		9.tremor
+Treatment= 
+		1.therapy
+Effectiveness   = yes
+
+Date of checkup      = 1/1/1
+Name            = sylda 
+Name            = prokom 
+Gender          = f 
+Place born      = surabaya
+Date of birth = 1/1/1
+Department    = Neurology
+Symptoms= 
+		20.Confusion and irritability		3.trouble understanding
+Treatment= 
+		1.therapy
+Effectiveness   = yes
+
+Date of checkup      = 18/8/2003
+Name            = windy 
+Name            = mertiana 
+Gender          = f 
+Place born      = jogja
+Date of birth = 1/3/1998
+Department       = Pulmology
+		1.cough
+Treatment= 
+		6.drug therapy
+Effectiveness   = obh
+
+Date of checkup      = 12/12/14
+Name            = meilinda 
+Name            = putri 
+Gender          = f 
+Place born      = jakarta
+Date of birth = 23/5/1998
+Department       = General Poly
+		6.headache
+		2.cough
+Treatment= 
+1.paracetamol
+
+Effectiveness   = bismillah
+
+Date of checkup      = 13/2/14
+Name            = windy 
+Name            = deftia 
+Gender          = f 
+Place born      = jogja
+Date of birth = 1/3/98
+Department       = General Poly
+		1.fever
+Treatment= 
+1.paracetamol
+
+2.aspirin
+
+Effectiveness   = bismillah
+
+Date of checkup      = 1/1/1
+Name            = lala 
+Name            = lili 
+Gender          = f 
+Place born      = surabaya
+Date of birth = 1/1/1
+Department       = General Poly
+		14.pusing
+Treatment= 
+		1.paracetamol
+Effectiveness   = bismillah
+
+Date of checkup      = 9/3/12
+Name            = lala 
+Name            = lili 
+Gender          = f 
+Place born      = surabaya
+Date of birth = 1/1/1
+Department       = Eye Center
+		8.itchy eye
+		9.mata lelah
+Treatment= 
+		1.eye drops
+		4.rest the eye
+Effectiveness   = wkw
+

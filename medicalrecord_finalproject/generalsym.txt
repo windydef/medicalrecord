@@ -1,0 +1,19 @@
+1.fever
+2.cough
+3.sore throat
+4.stuffy nose
+5.muscle or body aches
+6.headache
+7.red spors appear
+8.chills
+9.vimitting
+10.abdominal cramp
+11.queasy
+12.memar
+13.luka
+14.pusing
+15.mimisan
+16.nyeri pada badan
+17.sesak napas
+18.sakit telinga
+19.

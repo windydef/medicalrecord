@@ -1,0 +1,7 @@
+DOC111	3.sore throat	2.cough		1.paracetamol	2.aspirin	yes
+DOC111	12.memar	1.fever		1.paracetamol	2.aspirin	yes
+DOC111	3.sore throat	4.stuffy nose	1.paracetamol	2.aspirin	yes
+DOC121214 6.headache 2.cough 1.paracetamol yes
+DOC13214  1.fever 1.paracetamol 2.aspirin no
+DOC111  14.pusing 1.paracetamol yes
+DOC9312  8.itchy eye 9.mata lelah 1.eye drops 4.rest the eye yes
